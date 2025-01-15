@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 
-// First commit branch game logic
-
 public class Game {
     private Printer printer = new Printer();
 
