@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 
 public class PlayAgain {
     static boolean wannaPlay(){
