@@ -1,3 +1,5 @@
+package PACKAGE_NAME;
+
 import java.io.File;
 import java.util.Scanner;
 import java.io.IOException;

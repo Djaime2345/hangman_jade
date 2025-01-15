@@ -1,3 +1,4 @@
+package PACKAGE_NAME;
 import java.util.ArrayList;
 
 public class Game {
@@ -20,6 +21,7 @@ public class Game {
         foundLetters = new ArrayList<String>();
         wrongLetters = new ArrayList<String>();
         lives = 6;
+    }
 
         // Puts each letter of the word into an array
         private void createLettersArray() {

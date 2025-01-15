@@ -1,3 +1,4 @@
+package PACKAGE_NAME;
 import java.util.ArrayList;
 
 class Hangman {
